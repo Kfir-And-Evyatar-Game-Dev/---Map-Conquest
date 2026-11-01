@@ -243,4 +243,23 @@
 | **פסטיבל RTS של Steam** | נגיש את המשחק לפסטיבל ה־RTS השנתי של Steam | פסטיבל ייעודי לקהל היעד שלנו; גם משחקי אינדי השתתפו בו ([Steam Deck HQ](https://steamdeckhq.com/news/steam-real-time-strategy-fest-2025/), [itch.io devlog](https://feysstudio.itch.io/ww1-logistics-game/devlog/872177/update-15-participating-in-the-real-time-strategy-fest-on-steam-and-the-mistakes-i-made)) |
 | **רשתות חברתיות** | סרטוני פרסום קצרים בטיקטוק וברילס, עם קישור לעמוד המשחק ב־Steam | הקישור מוביל את הצופים ישירות לעמוד המשחק ולרשימת המשאלות |
 
+---
+
+## 9. ניתוח סיכונים והזדמנויות
+
+### סיכונים
+| סיכון | איך נתמודד |
+|---|---|
+| **שוק רווי:** כ־19,000 משחקים יצאו ב־Steam ב־2025, וההכנסה החציונית של משחק חדש הייתה כ־249 דולר ([GamingOnLinux](https://www.gamingonlinux.com/2025/12/over-19000-games-have-released-on-steam-in-2025-with-nearly-half-seeing-fewer-than-10-reviews/page=1/), [Game-Developers.org](https://game-developers.org/steam-paradox-2025-revenue-volume)) | נאסוף רשימות משאלות מוקדם דרך עמוד Steam, ונשתתף ב־Steam Next Fest ובפסטיבל ה־RTS של Steam |
+| **ההתעניינות ב־RTS דועכת מהר:** Tempest Rising ירד משיא של כ־9,400 שחקנים בו־זמנית לכמה מאות ([Steambase](https://steambase.io/games/tempest-rising)) | אירועים שבועיים, משימות יומיות ומפת עולם לכיבוש, שנותנים סיבה לחזור לאורך זמן |
+| **המנגנון לא חדש לגמרי:** שליטה בשטחים ואספקה קיימות ב־CoH3 וב־Wargame | נבליט את השילוב הייחודי: רשת אספקה גלויה, אספקת חירום וסבבים קצרים. נבדוק באב־טיפוס שהוא באמת מורגש |
+| **ירידה בעניין בתכנון מורכב:** ל־67% מהשחקנים חשוב פחות תכנון אסטרטגי מאשר ב־2015 ([Gigazine](https://gigazine.net/gsc_news/en/20240602-game-strategy-thinking-planning-decline/)) | פשטות מכוונת: 3 סוגי יחידות, כלל אספקה אחד וסבבים קצרים |
+
+### הזדמנויות
+| הזדמנות | איך ננצל |
+|---|---|
+| **אסטרטגיה בצמיחה:** זמן המשחק באסטרטגיה ב־Steam עלה ב־24% ([GameDev Reports](https://gamedevreports.substack.com/p/sensor-tower-the-premium-pcconsole)) | נשיק ב־PC, שם הז׳אנר צומח |
+| **פער בין RTS כבד ל־RTS נגיש:** Northgard, RTS אינדי פשוט עם מפה מחולקת לאזורים, הגיע ליותר מ־3 מיליון שחקנים ([GoNintendo](https://gonintendo.com/contents/12937-northgard-surpasses-3-million-players-alongside-the-studio-s-10-year-anniversary)) | נמצב את המשחק כ־RTS קצר ונגיש, עם עומק טקטי |
+| **נוסטלגיה ל־RTS קלאסי:** Red Alert 2 עדיין מקבל כ־93% ביקורות חיוביות ([IsThereAnyDeal](https://isthereanydeal.com/game/command-and-conquer-red-alert-2-and-yuris-revenge/info)) | נפנה לשחקנים ותיקים שגדלו על RTS קלאסי, בסגנון שמזכיר את Red Alert |
+
 </div>
