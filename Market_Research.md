@@ -229,4 +229,18 @@
 - **תרחיש לדוגמה:** 10,000 עותקים יכניסו כ־91 אלף דולר, לפני הכנסות מהרחבות. *(חישוב שלנו, לא נתון רשמי.)*
 - **זהירות:** ההכנסה החציונית של משחק חדש ב־Steam ב־2025 הייתה כ־249 דולר בלבד ([Game-Developers.org](https://game-developers.org/steam-paradox-2025-revenue-volume)). התרחיש תלוי בשיווק מוצלח (סעיף 8).
 
+---
+
+## 8. אסטרטגיית שיווק והפצה
+
+**פלטפורמה:** השקה ב־**Steam (PC)**, בהפצה דיגיטלית בלבד, עם **דמו חינמי ב־itch.io** כבר בשלב הפיתוח.
+
+### איך הקהל יגלה את המשחק
+| ערוץ | מה נעשה | למה |
+|---|---|---|
+| **עמוד Steam ורשימות משאלות** | נפתח עמוד מוקדם ונאסוף רשימות משאלות לפני ההשקה | בחציון, כ־10.5% מרשימות המשאלות הופכות למכירות ([GameWorldObserver](https://gameworldobserver.com/2024/12/06/wishlist-to-sales-ratio-steam-gamediscoverco-benchmark)) |
+| **Steam Next Fest** | נשתתף עם דמו שיעלה **כמה חודשים לפני** הפסטיבל | דמו חציוני מקבל כ־806 רשימות משאלות בפסטיבל. דמו שעלה מוקדם מקבל פי 2.5 בערך ([How To Market A Game](https://howtomarketagame.com/?p=5953), [Cinevva](https://app.cinevva.com/guides/steam-next-fest-strategy)) |
+| **פסטיבל RTS של Steam** | נגיש את המשחק לפסטיבל ה־RTS השנתי של Steam | פסטיבל ייעודי לקהל היעד שלנו; גם משחקי אינדי השתתפו בו ([Steam Deck HQ](https://steamdeckhq.com/news/steam-real-time-strategy-fest-2025/), [itch.io devlog](https://feysstudio.itch.io/ww1-logistics-game/devlog/872177/update-15-participating-in-the-real-time-strategy-fest-on-steam-and-the-mistakes-i-made)) |
+| **רשתות חברתיות** | סרטוני פרסום קצרים בטיקטוק וברילס, עם קישור לעמוד המשחק ב־Steam | הקישור מוביל את הצופים ישירות לעמוד המשחק ולרשימת המשאלות |
+
 </div>
