@@ -78,4 +78,54 @@
 ### השוק הישראלי
 אין מאפיינים ייחודיים שמחייבים התאמה לקהל הישראלי. השחקנים הישראלים משחקים באנגלית, והשוק המקומי קטן ונוטה למובייל ([Statista](https://www.statista.com/outlook/amo/media/games/mobile-games/israel)). לכן הקהל הישראלי ישמש בעיקר ל**בדיקות משחק ולמשוב ראשוני**, והמשחק מכוון לשוק העולמי.
 
+---
+
+## 3. ניתוח מתחרים
+
+### טבלת השוואה
+| משחק | מפתח / שנה | מדדי הצלחה | ביקורות |
+|---|---|---|---|
+| **Command & Conquer: Red Alert 2** | Westwood / EA, 2000 | מיליון עותקים נשלחו לחנויות בשבוע הראשון ([GameSpot](https://www.gamespot.com/articles/1-million-red-alert-2-copies-ship/1100-2649650/)); הערכה של כ־257 אלף עותקים בגרסת Steam ([Raijin](https://raijin.gg/app/2229850/Command__Conquer_Red_Alert_2_and_Yuris_Revenge)) | כ־93% חיוביות מתוך כ־10,000 ב־Steam ([IsThereAnyDeal](https://isthereanydeal.com/game/command-and-conquer-red-alert-2-and-yuris-revenge/info)) |
+| **Company of Heroes 3** | Relic, 2023 | הערכה של כ־0.6–1.2 מיליון עותקים ([Raijin](https://raijin.gg/app/1677280/Company_of_Heroes_3), [SteamPulse](https://steampulse.org/game/1677280)) | מבקרים: 81 ב־Metacritic; שחקנים: כ־57% חיוביות מתוך כ־39,000 ([GamersUnchained](https://www.gamersunchained.com/game/company-of-heroes-3), [SteamPulse](https://steampulse.org/game/1677280)) |
+| **Wargame: Red Dragon** | Eugen Systems, 2014 | 1–2 מיליון בעלים לפי הערכת [SteamSpy](https://www.steamspy.com/app/251060) | "Very Positive", כ־8,000 ביקורות ([Steam](https://store.steampowered.com/app/251060)) |
+| **Northgard** | Shiro Games (אינדי), 2018 | יותר מ־3 מיליון שחקנים ([GoNintendo](https://gonintendo.com/contents/12937-northgard-surpasses-3-million-players-alongside-the-studio-s-10-year-anniversary)) | כ־85% חיוביות מתוך כ־68,000 ([Steambase](https://steambase.io/apps/466560)) |
+| **Tempest Rising** | Slipgate Ironworks, 2025 | מקום שני ברשימת רבי המכר של Steam בהשקה ([GamesMarket](https://www.gamesmarket.global/business/weekly-charts-steam-top-20-tempest-rising-and-runescape-dragonwilds-shake-up-steams-weekly-top-sellers-ee6044ab9af4a3996317bacbe005b8e7)); הערכה של כ־238 אלף עותקים ו־5.7 מיליון דולר ([Raijin](https://raijin.gg/app/1486920/Tempest_Rising)) | כ־88% חיוביות מתוך כ־9,800 ([GSMManiak](https://www.gsmmaniak.pl/?p=1618536)) |
+
+*חלק מנתוני המכירות הם הערכות של אתרי צד שלישי. הנתון הרשמי של Red Alert 2 מתייחס לעותקים שנשלחו לחנויות, ולא לעותקים שנמכרו לשחקנים.*
+
+### ניתוח קצר לכל מתחרה
+
+**1. Red Alert 2: מקור ההשראה**
+- **מה מייחד אותו:** בניית בסיס, ייצור יחידות ותקיפת בסיס היריב, בסגנון מהיר ושובב.
+- **מה חסר בו:** המפה פתוחה, ואין משמעות לרצף השטחים או לקווי אספקה.
+- **מה לומדים:** גם 25 שנה אחרי היציאה, הביקורות כמעט מושלמות. יש ביקוש נוסטלגי לסגנון הזה.
+
+**2. Company of Heroes 3: שליטה בנקודות אסטרטגיות**
+- **מה מייחד אותו:** כיבוש נקודות שמכניסות משאבים, וקו חזית בין השטחים של כל צד.
+- **מה חסר בו:** המבקרים אהבו אותו, אבל השחקנים פחות: ביקורות "Mixed" ובאגים. המשחק מורכב ודורש למידה ארוכה.
+- **מה לומדים:** מנגנון של שליטה בשטחים עובד, אבל מורכבות יתר מרחיקה שחקנים.
+
+**3. Wargame: Red Dragon: אספקה ריאליסטית**
+- **מה מייחד אותו:** קרבות ענק עם מאות יחידות, וניהול מפורט של דלק ותחמושת.
+- **מה חסר בו:** הוא מאוד לא נגיש לשחקנים חדשים, וקרב אחד לוקח הרבה זמן.
+- **מה לומדים:** יש קהל לנושא האספקה, אבל אפשר להציג אותו בצורה פשוטה בהרבה.
+
+**4. Northgard: כיבוש אזורים במפה מחולקת**
+- **מה מייחד אותו:** המפה מחולקת לאזורים, וכל אזור שנכבש מוסיף משאבים. זה המבנה הכי קרוב לשלנו.
+- **מה חסר בו:** אין ניתוק אספקה. אזור שנכבש נשאר מחובר תמיד.
+- **מה לומדים:** סטודיו אינדי עם מפה מחולקת לאזורים ומנגנון פשוט הצליח להגיע ליותר מ־3 מיליון שחקנים.
+
+**5. Tempest Rising: הקאמבק של RTS קלאסי**
+- **מה מייחד אותו:** RTS בסגנון C&C, בגרפיקה מודרנית.
+- **מה חסר בו:** הוא לא מחדש במשחקיות. ההתעניינות דעכה משיא של כ־9,400 שחקנים בו־זמנית לכמה מאות ([Steambase](https://steambase.io/games/tempest-rising)).
+- **מה לומדים:** נוסטלגיה מביאה השקה חזקה, אבל בלי רעיון חדש קשה להחזיק שחקנים לאורך זמן.
+
+### הזדמנויות למשחק שלנו
+| מה חסר אצל המתחרים | איך "כיבוש המפה" מנצל את זה |
+|---|---|
+| ב־Red Alert 2 וב־Tempest Rising אין משמעות לרצף שטחים | **רשת אספקה מחוברת** היא המנגנון המרכזי |
+| CoH3 ו־Wargame מורכבים ודורשים למידה ארוכה | שלושה סוגי יחידות וכלל אספקה אחד ברור |
+| ב־Northgard אין ניתוק אספקה | ניתוק אזורים מהבסיס יוצר דילמה בין התקפה להגנה |
+| קרבות ארוכים אצל רוב המתחרים | סבבים קצרים עם תנאי ניצחון ברורים |
+
 </div>
